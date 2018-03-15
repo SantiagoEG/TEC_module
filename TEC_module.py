@@ -15,7 +15,8 @@ classifiers and leading to classification time savings with respect to other ens
 Please, for more information about this algorithm read [1].
 
 If you use this implementation for your research studies cite us:
-[1] - Citar
+[1] - GÓMEZ, Santiago Egea, et al. Ensemble network traffic classification: Algorithm comparison and novel ensemble scheme proposal. 
+Computer Networks, 2017, vol. 127, p. 68-80.
 
 Contact: santiago.egea@alumnos.uva.es
 """
